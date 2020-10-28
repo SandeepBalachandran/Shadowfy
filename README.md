@@ -7,6 +7,14 @@
   <a href="https://github.com/SandeepBalachandran/Shadowfy/commits/master" target="_blank">
     <img src="https://img.shields.io/github/last-commit/SandeepBalachandran/Shadowfy?style=flat-square" alt="GitHub last commit">
   </a>
+  
+  <a href="https://github.com/SandeepBalachandran/Shadowfy/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/SandeepBalachandran/Shadowfy?style=flat-square&color=red" alt="GitHub issues">
+  </a>
+
+  <a href="https://github.com/SandeepBalachandran/Shadowfy/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/SandeepBalachandran/Shadowfy?style=flat-square&color=blue" alt="GitHub pull requests">
+  </a>
 </p>
 
 # What is this?
