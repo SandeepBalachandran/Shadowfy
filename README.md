@@ -15,6 +15,10 @@
   <a href="https://github.com/SandeepBalachandran/Shadowfy/pulls" target="_blank">
     <img src="https://img.shields.io/github/issues-pr/SandeepBalachandran/Shadowfy?style=flat-square&color=blue" alt="GitHub pull requests">
   </a>
+
+  <a href="https://standardjs.com" target="_blank">
+      <img alt="ESLint" src="https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square">
+   </a>
 </p>
 
 # What is this?
