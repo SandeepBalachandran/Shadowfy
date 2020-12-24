@@ -26,7 +26,7 @@ Get perfect shadows every time for the non-designer.
 
 # Installation
 ```cmd 
-npm i shadowfy --save</code> 
+npm i shadowfy --save
 ```
 
 Then ..
